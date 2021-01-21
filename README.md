@@ -1,2 +1,1 @@
-# golang-fyne-study
-demo if fyne
+# golang-gui-study
